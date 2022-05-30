@@ -1,0 +1,1 @@
+This file will be copied to /root/example.txt on target image.

